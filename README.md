@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Mundankar</h1>
 <h3 align="center">A passionate Developer from India.</h3>
 <img align="right" alt="Coding" width="300" src="https://thumbs.gfycat.com/YearlyLoneBarnowl-max-1mb.gif">
-<p align="left">
+<p align="left"><img src="https://komarev.com/ghpvc/?username=yashmundankar&label=Profile%20views&color=0e75b6&style=flat" alt="yashmundankar" /> </p>
 
 - 🔭 I’m currently working in **Tailnode Technology**
 
