@@ -1,4 +1,3 @@
-[![MasterHead](https://i.gifer.com/Eaod.gif)](https://i.gifer.com/Eaod.gif)
 <h1 align="center">Hi 👋, I'm Yash Mundankar</h1>
 <h3 align="center">A passionate Developer from India.</h3>
 <img align="right" alt="Coding" width="300" src="https://thumbs.gfycat.com/YearlyLoneBarnowl-max-1mb.gif">
