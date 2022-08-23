@@ -1,4 +1,4 @@
-[![MasterHead](https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6)](https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6)
+[![MasterHead](https://i.gifer.com/Eaod.gif)](https://i.gifer.com/Eaod.gif)
 <h1 align="center">Hi 👋, I'm Yash Mundankar</h1>
 <h3 align="center">A passionate Frontend Developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/QDyD.gif">
