@@ -1,8 +1,8 @@
 [![MasterHead](https://i.gifer.com/Eaod.gif)](https://i.gifer.com/Eaod.gif)
 <h1 align="center">Hi 👋, I'm Yash Mundankar</h1>
-<h3 align="center">A passionate Frontend Developer from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/QDyD.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashmundankar&label=Profile%20views&color=0e75b6&style=flat" alt="yashmundankar" /> </p>
+<h3 align="center">A passionate Developer from India.</h3>
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b76113aebda6c62ce5acdee2b4e0f61cb8c3a3bc821d3&rid=giphy.gif&ct=g">
+<p align="left">
 
 - 🔭 I’m currently working in **Tailnode Technology**
 
@@ -16,10 +16,10 @@
 <p align="left">
 <a href="https://twitter.com/@mundankaryash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mundankaryash" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/yash-mundankar-636a681a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash mundankar" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/yashmundankar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yashmundankar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/yashmundankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yashmundankar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yashmundankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashmundankar" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/yashmundankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="yashmundankar" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/yash_mundankar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yashmundankar" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/yashmundankar?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yashmundankar" height="30" width="40" /></a>
+<a href="https://leetcode.com/yash_mundankar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashmundankar" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@yashmundankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="yashmundankar" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/yashmundankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yashmundankar" height="30" width="40" /></a>
 </p>
 
