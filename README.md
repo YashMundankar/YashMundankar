@@ -1,7 +1,7 @@
 [![MasterHead](https://i.gifer.com/Eaod.gif)](https://i.gifer.com/Eaod.gif)
 <h1 align="center">Hi 👋, I'm Yash Mundankar</h1>
 <h3 align="center">A passionate Developer from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b76113aebda6c62ce5acdee2b4e0f61cb8c3a3bc821d3&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/YearlyLoneBarnowl-max-1mb.gif">
 <p align="left">
 
 - 🔭 I’m currently working in **Tailnode Technology**
