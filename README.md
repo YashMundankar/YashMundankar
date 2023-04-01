@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack.**
 
-- 💬 Ask me about **Frontend (ReactJS,HTML,CSS,JS)**
+- 💬 Ask me about **Frontend (ReactJS,HTML,CSS,JS) Backend (NodeJS,TypeScript,ExpressJS)**
 
 - 📫 How to reach me **yashmundankar@gmail.com**
 
