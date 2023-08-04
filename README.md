@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working in **Tailnode Technology**
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 My current role is **SDE**
 
 - 💬 Ask me about **Frontend (ReactJS,HTML,CSS,JS) Backend (NodeJS,TypeScript,ExpressJS)**
 
